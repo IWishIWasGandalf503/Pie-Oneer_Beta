@@ -1,0 +1,81 @@
+{
+  "currentScene": "Demo1",
+  "playerData": {
+    "heartsMax": 5,
+    "currentHealth": 3,
+    "currentPosX": -6.280224323272705,
+    "currentPosY": 8.519746780395508
+  },
+  "dungeonLevel1": {
+    "enemiesData": [],
+    "potionRiddleRoom": {
+      "wasPotionChosen": false
+    },
+    "darkRoom": {
+      "areBarrelsDestroyed": []
+    },
+    "ghostRoom": {
+      "riddleStage": 0
+    },
+    "traderRoom": {
+      "items": []
+    },
+    "miniBossRoom": {
+      "miniBossIsDead": false
+    }
+  },
+  "dungeonT1Data": {
+    "enemiesData": [
+      {
+        "isDead": false,
+        "currentPosX": -3.020509,
+        "currentPosY": 1.590798
+      },
+      {
+        "isDead": false,
+        "currentPosX": -1.132,
+        "currentPosY": 1.590798
+      },
+      {
+        "isDead": false,
+        "currentPosX": 17.63,
+        "currentPosY": 1.590798
+      }
+    ]
+  },
+  "dungeonT2Data": {
+    "enemiesData": [
+      {
+        "isDead": false,
+        "currentPosX": 14.15,
+        "currentPosY": 1.590798
+      },
+      {
+        "isDead": false,
+        "currentPosX": -1.132,
+        "currentPosY": -9.61
+      },
+      {
+        "isDead": false,
+        "currentPosX": 17.63,
+        "currentPosY": 1.590798
+      },
+      {
+        "isDead": false,
+        "currentPosX": 16.34,
+        "currentPosY": -0.57
+      },
+      {
+        "isDead": false,
+        "currentPosX": 16.34,
+        "currentPosY": -9.07
+      },
+      {
+        "isDead": false,
+        "currentPosX": 17.71,
+        "currentPosY": -8.03
+      }
+    ],
+    "blockIsGreen": false
+  }
+}
