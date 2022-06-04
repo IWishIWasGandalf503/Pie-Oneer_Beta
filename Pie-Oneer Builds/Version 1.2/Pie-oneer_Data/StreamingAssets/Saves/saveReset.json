@@ -1,0 +1,168 @@
+{
+  "currentScene": "Dungeon Level 1",
+  "playerData": {
+    "heartsMax": 5,
+    "currentHealth": 5,
+    "coinAmount": 0,
+    "currentPosX": -0.041259765625,
+    "currentPosY": -5.616424560546875,
+    "itemSlots": []
+  },
+  "dungeonLevel1": {
+    "enemiesData": [
+      {
+        "isDead": false,
+        "currentPosX": 26.920000076293947,
+        "currentPosY": 8.029998779296875
+      },
+      {
+        "isDead": false,
+        "currentPosX": 33.7599983215332,
+        "currentPosY": 7.990000247955322
+      },
+      {
+        "isDead": false,
+        "currentPosX": 30.309999465942384,
+        "currentPosY": 10.899999618530274
+      },
+      {
+        "isDead": false,
+        "currentPosX": 26.8799991607666,
+        "currentPosY": 2.119999885559082
+      },
+      {
+        "isDead": false,
+        "currentPosX": 33.86000061035156,
+        "currentPosY": 1.909999966621399
+      },
+      {
+        "isDead": false,
+        "currentPosX": 15.420000076293946,
+        "currentPosY": 7.78000020980835
+      },
+      {
+        "isDead": false,
+        "currentPosX": -2.200000047683716,
+        "currentPosY": 13.390000343322754
+      },
+      {
+        "isDead": false,
+        "currentPosX": -9.100000381469727,
+        "currentPosY": 10.979999542236329
+      },
+      {
+        "isDead": false,
+        "currentPosX": -5.46999979019165,
+        "currentPosY": 8.539999961853028
+      },
+      {
+        "isDead": false,
+        "currentPosX": 6.909999847412109,
+        "currentPosY": 8.539999961853028
+      },
+      {
+        "isDead": false,
+        "currentPosX": 3.2799999713897707,
+        "currentPosY": -0.20000000298023225
+      },
+      {
+        "isDead": false,
+        "currentPosX": -8.550000190734864,
+        "currentPosY": -1.5
+      },
+      {
+        "isDead": false,
+        "currentPosX": -11.699999809265137,
+        "currentPosY": 31.559999465942384
+      }
+    ],
+    "coinsData": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "potionRiddleRoom": {
+      "wasPotionChosen": false
+    },
+    "darkRoom": {
+      "keyObtained": false
+    },
+    "ghostRoom": {
+      "riddleStage": 1,
+      "allRiddlesCorrect": true,
+      "rewardOneTaken": [],
+      "rewardTwoTaken": [],
+      "rewardThreeTaken": [],
+      "rewardGrandTaken": []
+    },
+    "traderRoom": {
+      "dialogueStage": 1
+    },
+    "miniBossRoom": {
+      "miniBossIsDead": false
+    }
+  },
+  "dungeonT1Data": {
+    "enemiesData": [
+      {
+        "isDead": false,
+        "currentPosX": -3.0205090045928957,
+        "currentPosY": 1.590798020362854
+      },
+      {
+        "isDead": false,
+        "currentPosX": -1.1319999694824219,
+        "currentPosY": 1.590798020362854
+      },
+      {
+        "isDead": false,
+        "currentPosX": 17.6299991607666,
+        "currentPosY": 1.590798020362854
+      }
+    ]
+  },
+  "dungeonT2Data": {
+    "enemiesData": [
+      {
+        "isDead": false,
+        "currentPosX": 14.149999618530274,
+        "currentPosY": 1.590798020362854
+      },
+      {
+        "isDead": false,
+        "currentPosX": -1.1319999694824219,
+        "currentPosY": -9.609999656677246
+      },
+      {
+        "isDead": false,
+        "currentPosX": 17.6299991607666,
+        "currentPosY": 1.590798020362854
+      },
+      {
+        "isDead": false,
+        "currentPosX": 16.34000015258789,
+        "currentPosY": -0.5699999928474426
+      },
+      {
+        "isDead": false,
+        "currentPosX": 16.34000015258789,
+        "currentPosY": -9.069999694824219
+      },
+      {
+        "isDead": false,
+        "currentPosX": 17.709999084472658,
+        "currentPosY": -8.029999732971192
+      }
+    ],
+    "blockIsGreen": false
+  }
+}
